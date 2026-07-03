@@ -1,0 +1,12 @@
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+CHEMINTEL API running on http://localhost:4000
+[0mGET /api/health [32m200[0m 5.238 ms - 77[0m
+[0mGET /api/drugs/search?q=Aspirin [32m200[0m 1376.503 ms - 1958[0m
+[0mGET /api/drugs/search?q=Aspirin [36m304[0m 1551.831 ms - -[0m
+[0mGET /api/drugs/search?q=Aspirin [36m304[0m 1037.020 ms - -[0m
+[0mGET /api/health [32m200[0m 0.377 ms - 77[0m
+[0mGET /favicon.ico [33m404[0m 2.206 ms - 150[0m
